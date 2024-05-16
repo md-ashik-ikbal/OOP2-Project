@@ -1,0 +1,141 @@
+C:\Users\user\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Users\user\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form1.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form2.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form3.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form4.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form5.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form6.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Properties.Resources.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form7.resources
+C:\Users\user\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Users\user\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Users\user\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form10.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form8.resources
+C:\Users\user\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form9.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form1.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form10.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form2.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form3.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form4.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form5.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form6.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form7.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form8.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form9.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Properties.Resources.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form11.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form13.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form12.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form14.resources
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Desktop\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CopyComplete
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form1.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form10.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form11.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form12.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form13.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form14.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form2.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form3.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form4.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form5.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form6.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form7.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form8.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form9.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Properties.Resources.resources
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.GenerateResource.cache
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CopyComplete
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+E:\Admin\Downloads\Desktop - Copy\Desktop\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form1.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form10.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form11.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form12.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form13.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form14.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form2.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form3.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form4.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form5.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form6.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form7.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form8.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Form9.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.Properties.Resources.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.GenerateResource.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.Up2Date
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\Desktop\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
